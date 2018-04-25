@@ -11,6 +11,7 @@ In this project following python packages are used;
  
  
 STEP 1: First I created a script that fetch random tweets from twitter. 
+
 STEP 2: Object that is recevied from twitter stream is a JSON, and contain tweet related to create,delete etc. I only require created tweets,so I writes an another 
 scrip that will fetech tweet text from json from only created type tweets.I only fetech 10K tweets.
 
